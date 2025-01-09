@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning **AI Tools, How To Use Them, Building Customised AI Agents**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/VeereshDodamani/VeereshDodamani/issues)**
 
 ⚡ Fun fact **The sound of lightsabers in Star Wars was created by blending the hum of an old TV and the buzz of a film projector**
 
